@@ -16,8 +16,8 @@ Python 3.11 or newer.
 
 Clone the repo and go into the folder.
 
-    git clone git@github.com:OseghaleK/calculator-repl.git
-    cd calculator-repl
+    git clone git@github.com:OseghaleK/calculator-app.git
+    cd calculator-app
 
 Make a virtual environment and turn it on.
 
